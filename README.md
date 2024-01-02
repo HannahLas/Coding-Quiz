@@ -7,7 +7,7 @@ I completed this task for the sixth challenge in my Skills Boot Camp in Front-En
 ## Usage
 Click on the Start Quiz button to start the quiz. Read the question and answer the correct option from the choices provided.  Below is a link to a screenshot that shows you an example of a question you will see during the quiz. 
 
-[linktoscreenshot](/screenshot.png)
+[linktoscreenshot](assets/screenshot.png)
 
 Here is a link to the final webpage: https://hannahlas.github.io/Coding-Quiz
 
